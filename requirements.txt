@@ -1,0 +1,4 @@
+# The server imports `from mcp.server.fastmcp import FastMCP`.
+# That module ships in MCP SDK 1.x and moved in 2.0.0, so keep the SDK below 2.
+# Verified against mcp 1.26.0.
+mcp>=1.2,<2

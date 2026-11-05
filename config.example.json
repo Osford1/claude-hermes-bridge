@@ -1,0 +1,16 @@
+{
+  "hermes_exe": "C:\\Users\\<you>\\AppData\\Local\\hermes\\hermes-agent\\venv\\Scripts\\hermes.exe",
+  "allowed_roots": [
+    "C:\\Users\\<you>\\Projects",
+    "C:\\Users\\<you>\\Desktop",
+    "C:\\Users\\<you>\\Downloads",
+    "C:\\Users\\<you>\\Documents",
+    "C:\\Users\\<you>\\claude-work",
+    "C:\\Temp"
+  ],
+  "default_cwd": "C:\\Users\\<you>\\claude-work",
+  "default_max_turns": 40,
+  "default_timeout_s": 1800,
+  "default_wait_s": 5,
+  "max_output_chars": 24000
+}
